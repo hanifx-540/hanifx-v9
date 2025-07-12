@@ -35,9 +35,9 @@ pip install hanifx
 
 # cd hanifx-v9
 
-# python hanifx_9v.py
+# python hanifx_v9.py
 
-# python3 hanifx_9v.py
+# python3 hanifx_v9.py
 
 
 
