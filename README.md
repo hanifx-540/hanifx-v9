@@ -32,11 +32,13 @@ qestion : some error show run terminal..!
 
 ans : not a modules and code problem. this Github problem,
 
-#how to use :-
+#how..?  :-
 
 # open lo.py and copy the code, and open your terminal run code i hope Working
 
-any issues email me thanks 
+any issues email me
+
+{I'm sorry for my language }(I'm Bangladeshi) [i trying to English 🤍🙂 ]
 
 ~ installation
 
